@@ -79,4 +79,4 @@ https://github.com/N0b1ta/Bit-Cannon/tree/master/Apache/Hadoop/YARN/hadoop-yarn-
 
 
 
-**Solemnly declare: Don't use this tool for illegal operation. This tool is only used for safety self checking  by Party A's personnel and Party B's personnel**.
+**Solemnly declare: Don't use this tool for illegal operation. This tool is only used for safety self checking  by Party A's personnel and Party B's personnel.If the user uses it illegally, the legal responsibility shall be borne by the user!!!**.
