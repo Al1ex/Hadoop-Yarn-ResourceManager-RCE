@@ -1,6 +1,6 @@
 ## Vuln Impact
 
-On November 15, 2021, A security researcher disclosed that there was an unauthorized access vulnerability in Hadoop yarn RPC. This vulnerability existed in Hadoop yarn, the core component of Hadoop. Because Hadoop yarn opened the RPC service to the public by default, a remote attacker could take advantage of this unauthorized vulnerability and execute arbitrary commands through the RPC service, so as to control the target server, In view of the high-risk status and great harm of this vulnerability, and the details have been disclosed and exploited by the opposition, it is recommended that all users using Apache Hadoop conduct self-examination and take security measures in time.
+There was an unauthorized access vulnerability in Hadoop yarn ResourceManager. This vulnerability existed in Hadoop yarn, the core component of Hadoop. Because Hadoop yarn opened the RPC service to the public by default, a remote attacker could take advantage of this unauthorized vulnerability and execute arbitrary commands through the RPC service, so as to control the target server, In view of the high-risk status and great harm of this vulnerability, and the details have been disclosed and exploited by the opposition, it is recommended that all users using Apache Hadoop conduct self-examination and take security measures in time.
 
 ## Vuln Product
 
